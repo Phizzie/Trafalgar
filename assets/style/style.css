@@ -1,0 +1,63 @@
+body{
+  margin: 50px;
+}
+header {
+  background-color: white;
+  height: 40px;
+  margin-top: 40px;
+}
+ul {
+  text-align: end;
+  width: 80%;
+}
+li {
+  list-style-type: none;
+  margin-top: -55px;
+}
+section{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    margin: 100px;
+}
+img{
+    height: 300px;
+    width: 25%;
+    margin-left: 600px;
+}
+.Home{
+    height: 90px;
+    width: 13%;
+}
+h4{
+    width: 160%;
+    color: rgb(161, 149, 149);
+}
+button{
+    border-radius: 10px;
+    width: 70%;
+    height: 30px;
+    background-color: rgb(119, 119, 206);
+    border: none;
+    color: white;
+}
+.logo{
+  border: 2px solid rgb(88, 88, 226);
+  width: 2.5%;
+  text-align: center;
+  border-radius: 60px;
+  height: 35px;
+  margin-top: 10px;
+  background-color:  rgb(88, 88, 226);
+  margin-left: 100px;
+  display: inline-block;
+}
+.text{
+  margin-top: -1px;
+  color: white;
+}
+.name{
+  margin-left: 50px;
+  margin-top: -50px;
+}
+
